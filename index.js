@@ -10,4 +10,3 @@ function changeCompletely(array, index, element) {
 
 var animals = ["dog", "cat", "squirrel"];
 doToElementsInArray(animals, changeCompletely);
-console.log(animals);
